@@ -1,7 +1,15 @@
 Check add command
 
+
 Change: to test first push from local master to repo
 
 Change: to test file change from remote master to local moster
 
 Change: to test rebase and fetch from remote master
+
+Change : test first push from local master to repo
+
+Change: to test file change from remote master to local moster
+
+Change: to test fetch and rebase from local to master
+
