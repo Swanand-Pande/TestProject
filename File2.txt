@@ -13,5 +13,8 @@ Change: to test file change from remote master to local moster
 
 Change: to test fetch and rebase from local to master
 
+
 Change 7 - to check 3 way push from local to remote
+
+Change 8: to check 3 way from remote to local
 
